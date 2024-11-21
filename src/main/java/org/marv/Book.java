@@ -1,6 +1,8 @@
 package org.marv;
+
 // Subclase Book que hereda de Product
 public  class Book extends Product {
+
     private String author;
     private String description;
     private double discountPercentage;
